@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    width: 400px;
+}
+
+.form-control {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.btn {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.alert {
+    display: none;
+}
