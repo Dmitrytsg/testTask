@@ -1,7 +1,7 @@
 # testTask
 Тестовое задание 
 
+Задание реализованно на домене testtaskdo.com.swtest.ru
 
-[testtaskdo.com.swtest.ru](testtaskdo.com.swtest.ru)
-
-## Features
+Логин: login
+Пароль: 123
