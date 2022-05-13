@@ -21,9 +21,6 @@ document.getElementById('auth').addEventListener("click",(e) => {
                 $('.form-control').addClass("is-invalid");
             }
         },
-        // error: function(xhr) {
-        //     console.log(xhr.responseText);
-        // }
         error: function() {
             alert("Ошибка входа");
         }
